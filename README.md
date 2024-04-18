@@ -92,11 +92,11 @@ In this document you can find the instructions for the preparation and use of th
 
 <br><br>
 
-# Projekto pasiruošimo instrukcija
+# Project setup guidelines
 
 Šioje dalyje bus pristatomos projekto aparatūrinės ir programinės įrangos sąranka.
 
-## Aparatūrinės įrangos paruošimo instrukcija
+## Hardware setup guidelines
 
 Projekto paleidimui ir tinkamam veikimui yra reikalingi virtualios realybės akiniai. Priklausomai nuo naudojamų VR akinių, jų paruošimo instrukcija gali skirtis, dėl to šioje dalyje yra pateikiami keli virtualios realybės akinių dokumentacijos pavyzdžiai.
 
@@ -104,7 +104,7 @@ Projekto paleidimui ir tinkamam veikimui yra reikalingi virtualios realybės aki
 - Oculus Quest 2: [OCULUS QUEST 2](https://www.meta.com/quest/setup/)
 - Valve Index: [VALVE INDEX]()
 
-## Programinės įrangos instrukcija
+## Software setup guidelines
 
 Priklausomai nuo naudojamos įrangos, gali būti reikalinga [SteamVR](https://store.steampowered.com/app/250820/SteamVR/) programa, kuri būtų naudojama kompiuterio programų paleidimui. Jeigu yra naudojamas Oculus Quest linijos produktas, bus reikalingas [META QUEST DEVELOPER HUB](https://developer.oculus.com/documentation/unity/ts-odh/). Ši programa yra reikalinga Unreal Engine Editor lauko naudojimui ir greitam projekto programos keitimui.
 
@@ -112,7 +112,7 @@ Norint pasijunkti VR-room projektą, jums reikės įsidiegti "Unreal Engine" pro
 
 Jeigu norite nenaudoti "Browse..." mygtuko kiekvieną kartą atidarius "Unreal Engine" programą, galite projekto failus užsisaugoti "C:\Users\[UserName]\Documents\Unreal Projects" aplanke.
 
-# Programos VR-room pristatymas
+# VR-room description
 
 Čia yra pats projektas.
 
@@ -128,6 +128,6 @@ Jeigu norite nenaudoti "Browse..." mygtuko kiekvieną kartą atidarius "Unreal E
 
 Tai yra projekto karkasas. Jis yra paruoštas veiklai su VR, taigi jame galima kurti naujas norimas funkcijas.
 
-# Rekomendacijos
+# Recomendations
 
 Didesniam interaktyvumui rekomenduojame implementuoti papildomų ekranų naudojimą aplinkoje žiūrovams. Taip pat sukurti daugiau funkcijų piešimui.
