@@ -94,11 +94,11 @@ In this document you can find the instructions for the preparation and use of th
 
 # Project setup guidelines
 
-Šioje dalyje bus pristatomos projekto aparatūrinės ir programinės įrangos sąranka.
+This section will introduce the hardware and software setup of the project.
 
 ## Hardware setup guidelines
 
-Projekto paleidimui ir tinkamam veikimui yra reikalingi virtualios realybės akiniai. Priklausomai nuo naudojamų VR akinių, jų paruošimo instrukcija gali skirtis, dėl to šioje dalyje yra pateikiami keli virtualios realybės akinių dokumentacijos pavyzdžiai.
+Virtual reality glasses are required for project launch and proper operation. Depending on the VR glasses used, their preparation instructions may differ, so this section contains several examples of virtual reality glasses documentation.
 
 - HTC Vive: [HTC VIVE](https://www.vive.com/au/support/vive/category_howto/setting-up-for-the-first-time.html)
 - Oculus Quest 2: [OCULUS QUEST 2](https://www.meta.com/quest/setup/)
@@ -106,28 +106,28 @@ Projekto paleidimui ir tinkamam veikimui yra reikalingi virtualios realybės aki
 
 ## Software setup guidelines
 
-Priklausomai nuo naudojamos įrangos, gali būti reikalinga [SteamVR](https://store.steampowered.com/app/250820/SteamVR/) programa, kuri būtų naudojama kompiuterio programų paleidimui. Jeigu yra naudojamas Oculus Quest linijos produktas, bus reikalingas [META QUEST DEVELOPER HUB](https://developer.oculus.com/documentation/unity/ts-odh/). Ši programa yra reikalinga Unreal Engine Editor lauko naudojimui ir greitam projekto programos keitimui.
+Depending on the hardware used, the [SteamVR](https://store.steampowered.com/app/250820/SteamVR/) app may be required to run PC applications. If an Oculus Quest product is used, the [META QUEST DEVELOPER HUB](https://developer.oculus.com/documentation/unity/ts-odh/) will be required. This application is necessary for field use of the Unreal Engine Editor and for quick changes to the project program.
 
-Norint pasijunkti VR-room projektą, jums reikės įsidiegti "Unreal Engine" programinę įrangą į jūsų kompiuterį. Jį atsidarius galėsite importuoti projekto failus, kuriose bus visas jums reikalingas karkasas. Tam, jog galėtumėte importuoti parsisiųskite projekto failus iš [čia](https://blablablakurbusmusuprojektas.com), tada atsidarę programinę įrangą pagrindiniame lange spaudžiame "Browse..." ir einame i direktoriją, kurioje užsisaugojote failus. Paieškos langelyje susirandame ".uproject" failą ir jį atidarome. Visa tai padarę galite viską keisti redaguoti pagal savo norus.
+In order to connect to the VR-room project, you will need to install the Unreal Engine software on your computer. Once it opens, you will be able to import the project files, which will contain all the framework you need. In order to be able to import, download the project files from [here](https://blablablakurbusmusuprojektas.com), then when the software opens, press "Browse..." in the main window and go to the directory where you saved the files. We find the ".uproject" file in the search box and open it. Once you've done all that, you can edit everything to your liking.
 
-Jeigu norite nenaudoti "Browse..." mygtuko kiekvieną kartą atidarius "Unreal Engine" programą, galite projekto failus užsisaugoti "C:\Users\[UserName]\Documents\Unreal Projects" aplanke.
+If you don't want to use the "Browse..." button every time you open the Unreal Engine application, you can save the project files in the "C:\Users\[UserName]\Documents\Unreal Projects" folder.
 
 # VR-room description
 
-Čia yra pats projektas.
+Here is the project itself.
 
-Čia yra funkcijos, veikiančios šiame karkase:
+Here are the features that work in this framework:
 
-- Vaikščiojimas
-- (Pasirinktų)Objektų paėmimas
-- Piešimas
-- Ekrano trynimas
-- Laikrodis
-- Meniu atidarymas
-- Pieštuko klonavimas
+- Walking
+- Picking up (Selected) Objects
+- Drawing
+- Screen wiping
+- Watch
+- Opening the menu
+- Pencil cloning
 
-Tai yra projekto karkasas. Jis yra paruoštas veiklai su VR, taigi jame galima kurti naujas norimas funkcijas.
+This is the framework of the project. It is VR-ready, so you can build the new features you want.
 
 # Recomendations
 
-Didesniam interaktyvumui rekomenduojame implementuoti papildomų ekranų naudojimą aplinkoje žiūrovams. Taip pat sukurti daugiau funkcijų piešimui.
+For greater interactivity, we recommend implementing the use of additional screens in the environment for viewers. Also create more features for drawing.
