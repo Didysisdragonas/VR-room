@@ -25,3 +25,10 @@ KTU VR-room yra multimedijos technologijos studentų/praktikantų projektas. Jam
 
 ## Aparatūrinės įrangos paruošimo instrukcija
 
+Projekto paleidimui ir tinkamam veikimui yra reikalingi virtualios realybės akiniai. Priklausomai nuo naudojamų VR akinių, jų paruošimo instrukcija gali skirtis, dėl to šioje dalyje yra pateikiami keli virtualios realybės akinių dokumentacijos pavyzdžiai.
+
+- HTC Vive: [HTC VIVE](https://www.vive.com/au/support/vive/category_howto/setting-up-for-the-first-time.html)
+- Oculus Quest 2: [OCULUS QUEST 2](https://www.meta.com/quest/setup/)
+- Valve Index: [VALVE INDEX]()
+
+Priklausomai nuo naudojamos įrangos, gali būti reikalinga SteamVR programa, kuri būtų naudojama kompiuterio programų paleidimui. Jeigu yra naudojamas Oculus Quest linijos produktas, bus reikalingas [META QUEST DEVELOPER HUB](https://developer.oculus.com/documentation/unity/ts-odh/). Ši programa yra reikalinga Unreal Engine Editor lauko naudojimui ir greitam projekto programos keitimui.
