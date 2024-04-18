@@ -14,8 +14,6 @@ KTU VR-room yra multimedijos technologijos studentų/praktikantų projektas. Jam
 
 1. [Sveikato ir saugumo rekomendacijos](#Sveikatos-ir-saugos-rekomendacijos)
 2. [Projekto pasiruošimo instrukcija](#Projekto-pasiruošimo-instrukcija)
-  1. [Aparatūrinės įrangos paruošimo instrukcija](##Aparatūrinės-įrangos-paruošimo-instrukcija)
-  2. [Programinės įrangos instrukcija](##Programinės-įrangos-instrukcija)
 3. [Programos VR-room pristatymas](#Programos-VR-room-pristatymas)
 4. [Rekomendacijos](#Rekomendacijos)
 
