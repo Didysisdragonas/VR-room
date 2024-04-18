@@ -31,4 +31,4 @@ Projekto paleidimui ir tinkamam veikimui yra reikalingi virtualios realybės aki
 - Oculus Quest 2: [OCULUS QUEST 2](https://www.meta.com/quest/setup/)
 - Valve Index: [VALVE INDEX]()
 
-Priklausomai nuo naudojamos įrangos, gali būti reikalinga SteamVR programa, kuri būtų naudojama kompiuterio programų paleidimui. Jeigu yra naudojamas Oculus Quest linijos produktas, bus reikalingas [META QUEST DEVELOPER HUB](https://developer.oculus.com/documentation/unity/ts-odh/). Ši programa yra reikalinga Unreal Engine Editor lauko naudojimui ir greitam projekto programos keitimui.
+Priklausomai nuo naudojamos įrangos, gali būti reikalinga [SteamVR](https://store.steampowered.com/app/250820/SteamVR/) programa, kuri būtų naudojama kompiuterio programų paleidimui. Jeigu yra naudojamas Oculus Quest linijos produktas, bus reikalingas [META QUEST DEVELOPER HUB](https://developer.oculus.com/documentation/unity/ts-odh/). Ši programa yra reikalinga Unreal Engine Editor lauko naudojimui ir greitam projekto programos keitimui.
