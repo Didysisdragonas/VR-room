@@ -25,3 +25,14 @@ KTU VR-room yra multimedijos technologijos studentų/praktikantų projektas. Jam
 
 ## Aparatūrinės įrangos paruošimo instrukcija
 
+## Programinės įrangos instrukcija
+
+Norint pasijunkti VR-room projektą, jums reikės įsidiegti "Unreal Engine" programinę įrangą į jūsų kompiuterį. Jį atsidarius galėsite importuoti projekto failus, kuriose bus visas jums reikalingas karkasas. Tam, jog galėtumėte importuoti parsisiųskite projekto failus iš https://blablablakurbusmusuprojektas.com, tada atsidarę programinę įrangą pagrindiniame lange spaudžiame "Browse..." ir einame i direktoriją, kurioje užsisaugojote failus. Paieškos langelyje susirandame ".uproject" failą ir jį atidarome. Visa tai padarę galite viską keisti redaguoti pagal savo norus.
+
+P.S jeigu norite nenaudoti "Browse..." mygtuko, kiekvieną kartą atidarius "Unreal Engine" programą, galite projekto failus užsisaugoti "C:\Users\[UserName]\Documents\Unreal Projects" aplanke.
+
+# Programos VR-room valdiklių instrukcija
+
+Pagrindinės programos naudojimo mygtukai:
+
+
