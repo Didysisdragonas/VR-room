@@ -67,27 +67,27 @@ Didesniam interaktyvumui rekomenduojame implementuoti papildomų ekranų naudoji
 
 
 # VR-room(EN)
-KTU VR-room yra multimedijos technologijos studentų/praktikantų projektas. Jame buvo realizuota edukacinė erdvė dėstytojams, siekiant labiau įtraukti studentus į paskaitas. 
+KTU VR-room is a project of multimedia technology students/practitioners. An educational space for teachers was realized in it, with the aim of involving students more in lectures.
 
-Šiame dokumente galima rasti projekto pasiruošimo ir naudojimo instrukciją, sukurtų elementų sąrašą ir pristatymą bei kitas rekomendacijas projektui.
+In this document you can find the instructions for the preparation and use of the project, the list and presentation of the created elements and other recommendations for the project.
 
-## Naudojama įranga
-- Unreal Engine versija: 5.3.2
-- Operacinė sistema: Windows 10
-- Virtualios realybės akiniai: HTC Vive
-
-<br><br>
-
-# Turinys
-
-1. [Sveikato ir saugumo rekomendacijos](#Sveikatos-ir-saugos-rekomendacijos)
-2. [Projekto pasiruošimo instrukcija](#Projekto-pasiruošimo-instrukcija)
-3. [Programos VR-room pristatymas](#Programos-VR-room-pristatymas)
-4. [Rekomendacijos](#Rekomendacijos)
+## Project Equipment
+- Unreal Engine version: 5.3.2
+- Operating system: Windows 10
+- Virtual reality headset: HTC Vive
 
 <br><br>
 
-# Sveikatos ir saugos rekomendacijos
+# Table of contents
+
+1. [Health and safety guidelines](#Health-and-safety-guidelines)
+2. [Project setup guidelines](#Project-setup-guidelines)
+3. [VR-room description](#VR-room-description)
+4. [Recomendations](#Recomendations)
+
+<br><br>
+
+# Health and safety guidelines
 
 
 <br><br>
