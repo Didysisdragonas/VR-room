@@ -21,6 +21,7 @@ KTU VR-room yra multimedijos technologijos studentų/praktikantų projektas. Jam
 
 # Sveikatos ir saugos rekomendacijos
 
+Prieš pradedant naudoti virtualios realybės įrangą, rek
 
 <br><br>
 
